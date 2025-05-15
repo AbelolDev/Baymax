@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BaymaxApplication<baymax>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.leiHealth.baymax.BaymaxApplication",
+            "projectName": "baymax",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
